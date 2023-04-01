@@ -6,8 +6,7 @@
 </h1>
    <p>
    <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
-   <em>Web Developer at <a href="https://www.codetez.com/">Codetez Technologies</em>
-</p>
+   </p>
   
 <p align="left">
   <img
