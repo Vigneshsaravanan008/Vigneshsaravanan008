@@ -49,7 +49,7 @@ const vignesh = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "php"]
     },
-    currentFocus: "Building Robots to ease opertations",
+    currentFocus: "Focus on Reactjs + Nodejs",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
