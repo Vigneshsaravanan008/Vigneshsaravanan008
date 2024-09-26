@@ -62,6 +62,6 @@ const vignesh = {
 <a href="https://www.linkedin.com/in/vignesh-saravanan-9839481a4" rel="nofollow">
   <img align="left" alt="Vignesh Saravanan" width="22px" src="https://vigneshsaravanan.vercel.app/linkedin.png" style="max-width:100%;height:50%">
 </a>
-<a href="https://github.com/VigneshSaravanan26" rel="nofollow">
+<a href="https://github.com/Vigneshsaravanan008" rel="nofollow">
   <img align="left" alt="Vignesh Saravanan" width="22px" src="https://vigneshsaravanan.vercel.app/github.png" style="max-width:100%;height:50%">
 </a>
