@@ -56,12 +56,12 @@ const vignesh = {
 
 
 <strong>Contact me on:</strong><br/>
-<a href="https://twitter.com/Vignesh02698" rel="nofollow">
+<a href="https://twitter.com/Vignesh02698" rel="nofollow" target="_blank">
   <img align="left"  alt="Vignesh Saravanan" width="22px" src="https://vigneshsaravanan.vercel.app/twitter.png" style="max-width:100%;background:#fff">
 </a>
-<a href="https://www.linkedin.com/in/vignesh-saravanan-9839481a4" rel="nofollow">
+<a href="https://www.linkedin.com/in/vignesh-saravanan-9839481a4" rel="nofollow" target="_blank">
   <img align="left" alt="Vignesh Saravanan" width="22px" src="https://vigneshsaravanan.vercel.app/linkedin.png" style="max-width:100%;height:50%">
 </a>
-<a href="https://github.com/Vigneshsaravanan008" rel="nofollow">
+<a href="https://github.com/Vigneshsaravanan008" rel="nofollow" target="_blank">
   <img align="left" alt="Vignesh Saravanan" width="22px" src="https://vigneshsaravanan.vercel.app/github.png" style="max-width:100%;height:50%">
 </a>
