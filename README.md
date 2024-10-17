@@ -2,7 +2,7 @@
 <h1>
  :wave: Hi,
   I'm  Vignesh Saravanan
-  <img align='right' src="https://vigneshsaravanan.vercel.app/static/media/VigneshSaravanan.99b2d3c618202aaac325.png" width="300" height="300">
+  <img align='right' src="https://vigneshsaravanan.vercel.app/static/media/VigneshSaravanan.99b2d3c618202aaac325.png" width="250" height="250">
 </h1>
    <p>
    <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
