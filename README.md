@@ -2,7 +2,7 @@
 <h1>
  :wave: Hi,
   I'm  Vignesh Saravanan
-  <img align='right' src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="230">
+  <img align='right' src="https://vigneshsaravanan.vercel.app/static/media/VigneshSaravanan.99b2d3c618202aaac325.png" width="300" height="300">
 </h1>
    <p>
    <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
@@ -10,6 +10,7 @@
    </p>
   
 <p align="left">
+
   <img
     src="https://komarev.com/ghpvc/?username=VigneshSaravanan26"
     alt="vigneshsaravanan26"
@@ -17,19 +18,19 @@
 </p>
 <li>
   <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
-  I enjoy to writting about Coding
+  Passionate about Writing Code
 </li>
 <li>
   <g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji>
-  Learning new Things | friendly | YouTuber
+  Always Learning | Friendly | Web Developer
 </li>
 <li>
  <g-emoji class="g-emoji" alias="gem" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png">💎</g-emoji>
-  Working as a  Web Developer
+  Skilled in React, Laravel
 </li>
 <li>
   <g-emoji class="g-emoji" alias="electric_plug" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png">🔌</g-emoji>
-   My Goal is to become a Full Stack Engineer;
+   Aspiring Full Stack Engineer, focused on building scalable web applications
 </li>
 <hr></hr>
 
